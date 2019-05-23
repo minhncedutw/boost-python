@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+.vscode/ipch
+*CMakeFiles
+*CMakeCache*
+*.exp
+*.manifest
+!ex01_helloworld/boost_python36-vc120-mt-x64-1_68.dll
+!ex01_helloworld/build/boost_python36-vc120-mt-x64-1_68.dll

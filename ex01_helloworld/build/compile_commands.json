@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/WORKSPACES/cpp/vc++/project03/01-helloworld/build",
+  "command": "\"C:/Program Files (x86)/Microsoft Visual Studio 12.0/VC/bin/amd64/cl.exe\"  /nologo /TP -Dhello_ext_EXPORTS -IE:/WORKSPACES/boost_1_68_0 -IE:/WORKSPACES/Miniconda/include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles/hello_ext.dir/hello_ext.cpp.obj /FdCMakeFiles/hello_ext.dir/ /FS -c E:/WORKSPACES/cpp/vc++/project03/01-helloworld/hello_ext.cpp",
+  "file": "E:/WORKSPACES/cpp/vc++/project03/01-helloworld/hello_ext.cpp"
+}
+]
